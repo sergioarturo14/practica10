@@ -1,0 +1,13 @@
+button {
+    padding: 10px 20px;
+    background-color: #1196e8;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 6px rgb(168, 97, 116, 0.8);
+}
+body{
+  color : #36aaf2;
+  background-color: #000000;
+}
